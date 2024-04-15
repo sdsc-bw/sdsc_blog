@@ -16,7 +16,7 @@ Below is a brief overview of the topics covered in the notebooks.
 
 This notebook provides an overview of how data analysis can be used within companies. It also gives an insight into what might be possible in the future.
 
-Click [Here](1. Die Bedeutung der Datenanalyse und ihre Rolle bei der Entscheidungsfindung in Unternehmen.ipynb) geht es zum Notebook.
+Click [Here](./1. Die Bedeutung der Datenanalyse und ihre Rolle bei der Entscheidungsfindung in Unternehmen.ipynb) geht es zum Notebook.
 
 ### Data-Mining für Anfänger
 
