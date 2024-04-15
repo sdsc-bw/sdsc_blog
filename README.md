@@ -1,9 +1,8 @@
 # SDSC Blog
 
-[![Documentation](https://img.shields.io/badge/lang-de-blue?style=flat-square)](readme.de.md)
+[![Documentation](https://img.shields.io/badge/lang-en-blue?style=flat-square)](README.md)
 
-
-This repository is primarily concerned with providing some data analysis skills for SMEs. It contains:
-- Getting started knowledge and tools
-- Some currently popular tools
-- positive and negative use cases
+Dieses Repository befasst sich vor allem damit, einige Datenanalyse-Kenntnisse für KMU zu vermitteln. Es enthält:
+- Einstiegswissen und Tools
+- Einige derzeit beliebte Tools
+- positive und negative Anwendungsfälle
