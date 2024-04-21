@@ -49,23 +49,42 @@ Dieses Notebook zeigt anhand von einem Beispiel, wie anhand von Bilddaten, fehle
 
 [Hier](Anwendungsfall_2_Fehlererkennung.ipynb) geht es zum Notebook.
 
-### Anwendungsfall 3 - Merkmalsauswahl am Beispiel UCI Secom
+### Anwendungsfall 3 - Fehlererkennung mit automatischen Feature Engineering
+
+Dieses Notebook zeigt anhand von einem Beispiel, wie anhand von Bilddaten, fehlerhafte Produkte erkannt werden können. Dabei wird eine Bibliothek vorgestellt, die automatisches Feature Engineering unterstützt.
+
+[Hier](Anwendungsfall_3_Fehlererkennung_mit_automatischem_Feature_Engineering.ipynb) geht es zum Notebook.
+
+### Anwendungsfall 4 - Fehlererkennung mit AutoML
+
+Dieses Notebook zeigt anhand von einem Beispiel, wie anhand von Bilddaten, fehlerhafte Produkte erkannt werden können. Dabei wird eine Bibliothek vorgestellt, die das automatische Trainieren von Modellen unterstützt.
+
+[Hier](Anwendungsfall_4_Fehlererkennung_mit_AutoML.ipynb) geht es zum Notebook.
+
+### Anwendungsfall 5 - Fehlererkennung mit Explainable AI
+
+Dieses Notebook zeigt anhand von einem Beispiel, wie anhand von Bilddaten, fehlerhafte Produkte erkannt werden können. Dabei werden zwei Bibliotheken vorgestellt, die das Erklären von Vorhersagen erlauben.
+
+[Hier](Anwendungsfall_5_Fehlererkennung_mit_Explainable_AI.ipynb) geht es zum Notebook.
+
+### Anwendungsfall 6 - Merkmalsauswahl für Halbleiter
 
 In diesem Notebook wird der Prozess der Merkmalsauswahl vorgestellt. Dabei wird die Qualität von Halbleitern anhand verschiedener Merkmale untersucht.  
 
-[Hier](Anwendungsfall_3_Merkmalsauswahl_für_Halbleiter.ipynb) geht es zum Notebook.
+[Hier](Anwendungsfall_6_Merkmalsauswahl_für_Halbleiter.ipynb) geht es zum Notebook.
 
-### Anwendungsfall 4 - Nachfragevorhersage
+### Anwendungsfall 7 - Nachfragevorhersage
 
 In diesem Notebook wird vorgestellt, wie die Datenanalyse für Zeitreihen abläuft. Dazu wird die Nachfrage für ein Produkt vorhergesagt.
 
-[Hier](Anwendungsfall_4_Nachfragevorhersage.ipynb) geht es zum Notebook.
+[Hier](Anwendungsfall_7_Nachfragevorhersage.ipynb) geht es zum Notebook.
 
-### Anwendungsfall 5 - Vorausschauende Instandhaltung
+### Anwendungsfall 8 - Vorausschauende Instandhaltung
 
 Dieses Notebook zeigt, wie man die Datenanalyse zur Instandhaltung von Komponenten verwenden kann.
 
-[Hier](Anwendungsfall_5_Vorausschauende Instandhaltung.ipynbb) geht es zum Notebook.
+[Hier](Anwendungsfall_8_Vorausschauende_Instandhaltung.ipynb) geht es zum Notebook.
+
 
 ### Negativer Anwendungsfall - Kontinuierlicher Fertigungsprozess
 

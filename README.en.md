@@ -50,23 +50,41 @@ This notebook uses an example to show how defective products can be identified u
 
 Click [Here](Anwendungsfall_2_Fehlererkennung.ipynb) for the notebook.
 
-### Anwendungsfall 3 - Merkmalsauswahl am Beispiel UCI Secom
+### Anwendungsfall 3 - Fehlererkennung mit automatischen Feature Engineering
+
+This notebook uses an example to show how defective products can be identified using image data. A library is presented that supports automatic feature engineering.
+
+Click [Here](Anwendungsfall_3_Fehlererkennung_mit_automatischem_Feature_Engineering.ipynb) for the notebook.
+
+### Anwendungsfall 4 - Fehlererkennung
+
+This notebook uses an example to show how defective products can be identified using image data. A library is presented that supports the automatic training of models.
+
+Click [Here](Anwendungsfall_4_Fehlererkennung_mit_AutoML.ipynb) for the notebook.
+
+### Anwendungsfall 5 - Fehlererkennung mit Explainable AI
+
+This notebook uses an example to show how defective products can be identified using image data. Two libraries are presented that allow predictions to be explained.
+
+Click [Here](Anwendungsfall_5_Fehlererkennung_mit_Explainable_AI.ipynb) for the notebook.
+
+### Anwendungsfall 6 - Merkmalsauswahl für Halbleiter
 
 This notebook presents the process of feature selection. The quality of semiconductors is examined on the basis of differnt features. 
 
-Click [Here](Anwendungsfall_3_Merkmalsauswahl_für_Halbleiter.ipynb) for the notebook.
+Click [Here](Anwendungsfall_6_Merkmalsauswahl_für_Halbleiter.ipynb) for the notebook.
 
-### Anwendungsfall 4 - Nachfragevorhersage
+### Anwendungsfall 7 - Nachfragevorhersage
 
 This notebook shows how data analysis for time series is carried out. This involves predicting the demand for a product.
 
-Click [Here](Anwendungsfall_4_Nachfragevorhersage.ipynb) for the notebook.
+Click [Here](Anwendungsfall_7_Nachfragevorhersage.ipynb) for the notebook.
 
-### Anwendungsfall 5 - Vorausschauende Instandhaltung
+### Anwendungsfall 8 - Vorausschauende Instandhaltung
 
 This notebook shows how data analysis can be used to maintain components.
 
-Click [Here](Anwendungsfall_5_Vorausschauende Instandhaltung.ipynb) for the notebook.
+Click [Here](Anwendungsfall_8_Vorausschauende Instandhaltung.ipynb) for the notebook.
 
 ### Negativer Anwendungsfall - Kontinuierlicher Fertigungsprozess
 
